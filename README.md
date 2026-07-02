@@ -28,5 +28,12 @@ soundtrack-recommender
 └── .gitignore
 ```
 
-## Status
-🚧 Project is currently under development.
+## 🚧 Project Status
+
+This project is currently under development and is not yet production-ready. Some features may be incomplete, and certain issues are still being addressed.
+
+Planned improvements:
+- Enhanced recommendation algorithm
+- Better error handling
+- Additional mood categories
+- Improved project structure and refactoring
