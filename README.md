@@ -13,5 +13,20 @@ A Java application that recommends movie soundtracks based on the user's mood us
 - Spotify Web API
 - Gson
 
+## 📁 Project Structure
+
+```text
+soundtrack-recommender
+├── src
+│   └── main
+│       └── java
+│           ├── org/example/Main.java
+│           └── sra.java
+├── pom.xml
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
 ## Status
 🚧 Project is currently under development.
